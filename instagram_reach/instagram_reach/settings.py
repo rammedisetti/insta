@@ -71,7 +71,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'instagram_reach.wsgi.application'
+WSGI_APPLICATION = 'instagram_reach.wsgi.app'
 
 
 # Database
